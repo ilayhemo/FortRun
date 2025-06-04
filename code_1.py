@@ -11,7 +11,7 @@ pygame.display.set_caption("המירוץ למבצר")
 pygame.display.set_icon(pygame.image.load("pics/game_Icon.png"))
 
     
-y_1 = -520
+y_1 = -520.0
 y_2 = 0
 lives = 3
 matsCount = 0
